@@ -19,10 +19,9 @@ github_username:  jekyll
 highlighter: rouge
 markdown: kramdown
 kramdown:
-	input: GFM
-
+  input: GFM
 gems:
-	- jekyll-paginate
+  - jekyll-paginate
 
 
 # Build settings
