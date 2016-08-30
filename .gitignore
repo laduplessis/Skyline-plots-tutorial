@@ -1,8 +1,7 @@
-*blx.bib
-*.aux
-*.bbl
-*.blg
+main.run.xml
+main.aux
 main.log
 main.out
-main.pdf
-*.run.xml
+main.bbl
+main.blg
+main-blx.bib
